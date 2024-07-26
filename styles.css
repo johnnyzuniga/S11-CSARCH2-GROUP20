@@ -4,7 +4,6 @@ body {
 .container {
     margin-top: 50px;
     width: 50%;
-    border-color: black;
 }
 .form-group label {
     font-weight: bold;
